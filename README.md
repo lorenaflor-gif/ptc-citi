@@ -57,6 +57,7 @@ O usuário pode visualizar e testar a landing page pelo *CodeSandbox ou LiveWeav
 > 💡 Detalhe de como visualizar: 
 
 ![Foto da Landing Page completa](https://raw.githubusercontent.com/lorenaflor-gif/ptc-citi/refs/heads/main/imagens/WhatsApp%20Image%202025-10-25%20at%2016.41.55.jpeg)
+![Foto da Landing Page completa](https://github.com/lorenaflor-gif/ptc-citi/blob/main/imagens/WhatsApp%20Image%202025-10-25%20at%2016.41.55.jpeg?raw=true)
 
 
 
