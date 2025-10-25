@@ -44,7 +44,7 @@ A landing page contém as seguintes abas, cada uma com conteúdo personalizado:
 
 ![Foto da Navbar](https://github.com/lorenaflor-gif/ptc-citi/blob/main/imagens/WhatsApp%20Image%202025-10-25%20at%2016.32.20.jpeg?raw=true)
 
-## Contato
+## Como rodar o HTML e CSS
 O usuário pode visualizar e testar a landing page pelo *CodeSandbox ou LiveWeave*, para conferir a estilização completa, botões e abas em funcionamento.  
 
 *Passo a passo para visualizar a landing page:*
@@ -54,9 +54,11 @@ O usuário pode visualizar e testar a landing page pelo *CodeSandbox ou LiveWeav
 4. Colar o código *HTML e CSS*.  
 5. Visualizar a página em tempo real.  
 
-> 💡 Espaço para colocar foto da landing page completa (navbar + abas) aqui  
+> 💡 Detalhe de como visualizar: 
 
-![Foto da Navbar](https://github.com/lorenaflor-gif/ptc-citi/blob/main/imagens/WhatsApp%20Image%202025-10-25%20at%2016.32.20.jpeg?raw=true)
+![Foto da Landing Page completa](https://raw.githubusercontent.com/lorenaflor-gif/ptc-citi/refs/heads/main/imagens/WhatsApp%20Image%202025-10-25%20at%2016.41.55.jpeg)
+
+
 
 ### Links de Contato
 Você pode me encontrar nas redes sociais:
