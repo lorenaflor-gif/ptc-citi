@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+            <style>html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Cabeçalho */
+header {
+  background-color: #1f1f1f;
+  text-align: center;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+header h1 {
+  color: white;
+  margin-bottom: 10px;
+}
+
+nav button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 12px;
+  background-color: #00aaff;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+nav button:hover {
+  background-color: #0077cc;
+}
+
+/* Áreas */
+.aba {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  padding: 40px;
+}
+
+.conteudo {
+  max-width: 600px;
+}
+
+.conteudo img {
+  width: 250px;
+  height: auto;
+  border-radius: 20px;
+  margin: 20px 0;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Fundos diferentes para cada aba */
+.fundo1 {
+  background: linear-gradient(to right, #222, #333);
+}
+
+.fundo2 {
+  background: linear-gradient(to right, #003366, #005599);
+}
+
+.fundo3 {
+  background: linear-gradient(to right, #660033, #99004d);
+}
+
+.fundo4 {
+  background: linear-gradient(to right, #004d00, #008000);
+}
+</style>
+        </head>
+        <body>
+            
+
+  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quem sou eu?</title>
+    <link rel="stylesheet" href="style.css">
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+
+  
+ <header>
+      <h1>🌟 Meu Espaço Pessoal</h1>
+      <nav>
+        <button onclick="location.href='#quem-sou-eu'">Quem sou eu?</button>
+        <button onclick="location.href='#filme'">Filme</button>
+        <button onclick="location.href='#musica'">Música</button>
+        <button onclick="location.href='#livro'">Livro</button>
+        <button onclick="location.href='#contatos'">Contatos</button>
+      </nav>
+    </header>
+
+    <!-- ABA QUEM SOU EU -->
+    <section id="quem-sou-eu" class="aba fundo1">
+      <div class="conteudo">
+        <h2>Quem sou eu</h2>
+        <img src="https://github.com/lorenaflor-gif/ptc-citi/blob/main/WhatsApp%20Image%202025-10-25%20at%2016.08.01.jpeg?raw=true" alt="Foto pessoal">
+        <p>
+          Olá! 👋 Meu nome é Lorena, tenho 19 anos e estou cursando o primeiro
+          período de Administração. Estou gostando muito do curso e de tudo o
+          que tenho aprendido até agora. Tenho dois gatos e um cachorro
+          salsichinha que são a minha companhia do dia a dia. Adoro assistir
+          séries, filmes (especialmente os da Disney) e documentários sobre
+          natureza. Também sou apaixonada por tudo que envolve o mar e os
+          animais que habitam nele.
+           </p><p>Você pode me encontrar nas seguintes redes sociais:</p>
+        <div class="botoes-contato">
+          <button onclick="window.open('https://www.instagram.com/lorena.flor_?igsh=MTk5dzJxd3ltODhiag==','_blank')">Instagram</button>
+          <button onclick="window.open('https://www.linkedin.com/in/lorena-flor-8992ba353?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app','_blank')">LinkedIn</button>
+        </div>
+        <p></p>
+      </div>
+    </section>
+
+    <!-- ABA FILME -->
+    <section id="filme" class="aba fundo2">
+      <div class="conteudo">
+        <h2>🎬 Filme Favorito</h2>
+        <img src="https://github.com/lorenaflor-gif/ptc-citi/blob/main/irm%C3%A3o%20urso%20filme.webp?raw=true" alt="Irmão Urso - Filme">
+        <p>
+          Esse filme com certeza é o melhor da Disney! A
+          <strong>história é simplesmente linda</strong>, eu choro toda vez que
+          assisto. Amo a forma como ele retrata a irmandade, tanto que eu e meus
+          irmãos sempre dizemos que nos vemos refletidos nos personagens.
+        </p>
+      </div>
+    </section>
+
+    <!-- ABA MÚSICA -->
+    <section id="musica" class="aba fundo3">
+      <div class="conteudo">
+        <h2>🎵 Música Favorita</h2>
+        <img src="https://github.com/lorenaflor-gif/ptc-citi/blob/main/musica.jpg?raw=true" alt="Katy Perry - The One That Got Away">
+        <p>
+          Essa foi a <strong>primeira música</strong> da Katy Perry que eu ouvi,
+          e a partir desse momento me apaixonei por ela e por suas canções. No
+          ano passado, tive a oportunidade de ir ao show, e foi simplesmente uma
+          das melhores experiências da minha vida. Amo muito a Katy e tudo o
+          que ela representa!
+        </p>
+      </div>
+    </section>
+
+    <!-- ABA LIVRO -->
+    <section id="livro" class="aba fundo4">
+      <div class="conteudo">
+        <h2>📚 Livro Favorito</h2>
+        <img src="https://github.com/lorenaflor-gif/ptc-citi/blob/main/livro%20sele%C3%A7%C3%A3o.jpg?raw=true" alt="Livro A Seleção">
+        <p>
+          <strong> “A Seleção”</strong> foi o primeiro livro que li, e até hoje
+          continua sendo o meu favorito. Eu tinha cerca de oito anos na época, e
+          me apaixonei completamente pela história. Foi através dele que aprendi
+          sobre a diferença entre as castas, algo que achei smuito interessante e
+          que despertou ainda mais a minha curiosidade pela leitura.
+        </p>
+      </div>
+    </section>
+  <script type="text/javascript" src="js/script.js"></script>
+
+
+            <script>// Write JavaScript here</script>
+        
+    
+</body>
