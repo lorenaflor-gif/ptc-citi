@@ -48,24 +48,21 @@ A landing page contém as seguintes abas, cada uma com conteúdo personalizado:
 O usuário pode visualizar e testar a landing page pelo *CodeSandbox ou LiveWeave*, para conferir a estilização completa, botões e abas em funcionamento.  
 
 *Passo a passo para visualizar a landing page:*
-1. Acessar a plataforma (CodeSandbox ou LiveWeave).  
-2. Fazer login ou criar uma conta.  
-3. Colar o código *HTML e CSS*.  
-4. Visualizar a página em tempo real.  
+1. Acessar a plataforma (CodeSandbox ou LiveWeave).
+2. Para visualizar no CodeSandBox sem detalhes de estilo: https://xs6csm.csb.app/
+3. Para visualizar no LiveWeave: Fazer login ou criar uma conta.  
+4. Colar o código *HTML e CSS*.  
+5. Visualizar a página em tempo real.  
 
 > 💡 Espaço para colocar foto da landing page completa (navbar + abas) aqui  
 
----
+![Foto da Navbar](https://github.com/lorenaflor-gif/ptc-citi/blob/main/imagens/WhatsApp%20Image%202025-10-25%20at%2016.32.20.jpeg?raw=true)
 
 ### Links de Contato
 Você pode me encontrar nas redes sociais:
 
-- Instagram: [Seu Instagram Aqui](https://www.instagram.com/seuusuario)  
-- LinkedIn: [Seu LinkedIn Aqui](https://www.linkedin.com/in/seuusuario)
-
-> 💡 Espaço para adicionar botões de contato ou ícones aqui  
-
----
+- Instagram: [Instagram Aqui](https://www.instagram.com/lorena.flor_?igsh=MTk5dzJxd3ltODhiag==)  
+- LinkedIn: [LinkedIn Aqui](https://www.linkedin.com/in/lorena-flor-8992ba353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## Tecnologias Utilizadas
 - HTML  
