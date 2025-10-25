@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+            <style>html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Cabeçalho */
+header {
+  background-color: #1f1f1f;
+  text-align: center;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+header h1 {
+  color: white;
+  margin-bottom: 10px;
+}
+
+nav button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 12px;
+  background-color: #00aaff;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+nav button:hover {
+  background-color: #0077cc;
+}
+
+/* Áreas */
+.aba {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  padding: 40px;
+}
+
+.conteudo {
+  max-width: 600px;
+}
+
+.conteudo img {
+  width: 250px;
+  height: auto;
+  border-radius: 20px;
+  margin: 20px 0;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Fundos diferentes para cada aba */
+.fundo1 {
+  background: linear-gradient(to right, #222, #333);
+}
+
+.fundo2 {
+  background: linear-gradient(to right, #003366, #005599);
+}
+
+.fundo3 {
+  background: linear-gradient(to right, #660033, #99004d);
+}
+
+.fundo4 {
+  background: linear-gradient(to right, #004d00, #008000);
+}
+</style>
+        </head>
+        <body>
+            
+
+       
