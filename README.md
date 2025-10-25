@@ -42,7 +42,7 @@ A landing page contém as seguintes abas, cada uma com conteúdo personalizado:
 
 > 💡 Espaço para colocar foto das 4 abas aqui  
 
-![Foto da Navbar]([https://i.imgur.com/abc123.png](https://github.com/lorenaflor-gif/ptc-citi/blob/main/imagens/WhatsApp%20Image%202025-10-25%20at%2016.32.20.jpeg?raw=true))
+![Foto da Navbar](https://github.com/lorenaflor-gif/ptc-citi/blob/main/imagens/WhatsApp%20Image%202025-10-25%20at%2016.32.20.jpeg?raw=true)
 
 ## Contato
 O usuário pode visualizar e testar a landing page pelo *CodeSandbox ou LiveWeave*, para conferir a estilização completa, botões e abas em funcionamento.  
